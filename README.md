@@ -29,6 +29,6 @@ We’re shaping the next generation of developers by combining deep technical ma
 </p>
 
 <p align="center">
-Image is 
-  <img src= ="https://github.com/codersbrainmentors/codersbrainmentors/blob/main/LION%20(1).png?raw=true"/>
+
+  <img src= "https://github.com/codersbrainmentors/codersbrainmentors/blob/main/LION%20(1).png?raw=true"/>
 </p>
