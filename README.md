@@ -25,9 +25,10 @@ We’re shaping the next generation of developers by combining deep technical ma
 <p align="center">
   <a href="https://brain-mentors.com"><b>🌐 Visit Our Website</b></a> •
   <a href="https://www.youtube.com/c/BrainMentorsPvtLtd"><b>🎥 YouTube</b></a> •
-  <a href="https://www.instagram.com/brainmentors"><b>📸 FaceBook</b></a>
+  <a href="https://www.instagram.com/brain.mentors/"><b>📸 Instagram</b></a>
 </p>
 
 <p align="center">
-<img src= ="https://github.com/codersbrainmentors/codersbrainmentors/blob/main/LION%20(1).png?raw=true"/>
+Image is 
+  <img src= ="https://github.com/codersbrainmentors/codersbrainmentors/blob/main/LION%20(1).png?raw=true"/>
 </p>
